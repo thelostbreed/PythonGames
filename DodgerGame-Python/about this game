@@ -1,0 +1,3 @@
+This game is replica from the book InventGamesInPython but with some modifiction.
+Based on somewhat true scenerio, a girl has to dodge herself from guys falling as a baddies and if a guy collides with girl, game is over.
+This is first game in pygamae module.
